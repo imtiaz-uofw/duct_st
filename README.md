@@ -3,7 +3,7 @@
 Six different spatial transcriptomic clustering algorithms are adopted in this project to find out the spatial domain of the Ductal Carcinoma in Situ data. Based on the spatial domain cluster group, the marker genes were identified per each cluster group. After that, the cell groups for each of the cluster groups were identified based on the top marker genes to benchmark the algorithms.
 
 <p align="center">
-	<img src="https://github.com/imtiaz-uofw/test/blob/main/stdiagram.png?raw=true" width="367.9" height="622.7" alt="Image">
+	<img src="workflow/workflow.png" width="367.9" height="622.7" alt="Image">
 </p>
 
 
@@ -35,6 +35,9 @@ Six different spatial transcriptomic clustering algorithms are adopted in this p
 ├── tutorial
 │   └── tutorial.ipynb
 │   └── tutorial.py
+├── workflow
+│   └── workflow.pdf
+│   └── workflow.png
 └── readme.md
 ```
 ## Python Platform
