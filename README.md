@@ -57,15 +57,16 @@ Python packages: pandas = 1.2.4, numpy = 1.19.1, python-igraph=0.9.1, scipy = 1.
 #### Steps for running the packages
 ```
 1. load or choose folder for data
-1. lib_installation.py
-2. data_importing_and_annoting.py
-3. preprocessing.py
-4. leiden.py
-5. louvain.py
-6. k_means.py
-7. h_clust.py
-8. squidpy.py
-9. spagcn.py
+2. lib_installation.py
+3. data_importing_and_annoting.py
+4. preprocessing.py
+5. leiden.py
+6. louvain.py
+7. k_means.py
+8. h_clust.py
+9. squidpy.py
+10. spagcn.py
+Or the tutorial.py can be run which is combined
 ```
 ## Tutorial
 #### To run the ipynb file
@@ -80,12 +81,12 @@ upload to colabratory and run tutorial.ipynb
 
 ## Usage
 With this project one can do the following
-• Finding out the spatial domain from spatial transcriptomics.
-• How to use or run different spatial transcriptomic algorithms. 
-• Finding the top marker genes through.
-• Cell annotation of the marker genes.
-• Benchmarking spatial domain clustering based on the cell.
-• Helping biomarkers to find out the genes that belongs to ductal cell.
+- Finding out the spatial domain from spatial transcriptomics.
+- How to use or run different spatial transcriptomic algorithms. 
+- Finding the top marker genes through.
+- Cell annotation of the marker genes.
+- Benchmarking spatial domain clustering based on the cell.
+- Helping biomarkers to find out the genes that belongs to ductal cell.
 
 ## Contact
 Feel free to submit an issue or contact me at ahmed-m70@webmail.uwinnipeg.ca for problems about the packages.
