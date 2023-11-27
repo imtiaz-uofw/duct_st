@@ -8,7 +8,7 @@ Six different spatial transcriptomic clustering algorithms are adopted in this p
 
 
 ## Folder hierarchy
-#### The 10x genomic's Ductal carcinoma is Situ Data is chosen. After grabbing the source codes, you can see the folder hierarchy as follows:
+#### The 10x genomic's Ductal carcinoma is Situ Dataset is chosen for this project. The folder hierarchy for this project are listed here as follows:
 ```
 .
 ├── data
